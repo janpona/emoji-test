@@ -2717,3 +2717,7 @@ to{-webkit-transform:scale(0.0);transform:scale(0.0)}
 .qa-l-ra,.qa-l-t{background-color:#fff;padding:8px}
 .c-ae-va{font-weight:bold}
 sentinel{}
+hr {
+    clear: both;
+    margin-top: 235px;
+}
