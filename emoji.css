@@ -2725,6 +2725,7 @@ hr {
     font-family: arial, sans-serif;
     font-size: 10px;
     color: gray;
+    margin: 0;
 }
 body {
     background-color: #ddd;
