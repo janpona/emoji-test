@@ -2735,3 +2735,5 @@ body {
     margin: 5px 0px;
     padding: 0;
 }
+
+.emoji-pona{background:no-repeat url(emoji.png) 0 -6467px;height:28px;width:28px}
