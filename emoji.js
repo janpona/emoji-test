@@ -37,7 +37,6 @@
     }
     
     for (var i = 0; i < group_keys.length; ++i) {
-      console.log(group_keys[i]);
       var snippet = render_group(group_keys[i], groups[group_keys[i]]);
       $('#build').append(snippet);
     }
