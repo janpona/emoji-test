@@ -47,10 +47,47 @@
   function render_group(header, items) {
     var output = '<div class="Tn"><h3>' + header + '</h3><ul>';
     for (var i = 0; i < items.length; ++i) {
-      output += '<li>' + items[i] + '</li>';
+      output += '<li>' + render_item(items[i]) + '</li>';
     }
     output += '</ul></div>';
     return output;
   }
   
+  function render_item(item) {
+    var output = '';
+    
+    var info = item_info(item);
+    if (info.length) {
+      var classname = info[0];
+      var text = info[1];
+      output = '<span class="Pt">';
+      output += '<span style="opacity:0.0; width: 0; display:inline-block;">';
+      output += text;
+      outout += '</span><div class="' + classname + 'vm" style="display:inline-block;"></div></span>';
+    }
+    else {
+      output = item;
+    }
+    
+    return output;
+  }
+  
+  function item_info(item) {
+    var info = [];
+    
+    // Maps each toki pona word to an original google emoji class name
+    // and a default inner text value.
+    var map = {
+      'tomo' : ['e1f3e0', '&#xd83c;&#xdfe0;'],
+      'seli' : ['e1f525', '&#xd83d;&#xdd25;'],
+      'kala' : ['e1f41f', '&#xd83d;&#xdc1f;'],
+      'pona' : ['e263a', '&#x263a;'],
+    }
+    
+    if (map.item != "undefined") {
+      info = map.item;
+    }
+    
+    return info;
+  }
 })(jQuery);
