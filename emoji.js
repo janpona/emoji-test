@@ -84,7 +84,7 @@
       'pona' : ['e263a', '&#x263a;'],
     }
     
-    if (map.item !== undefined) {
+    if (map[item] !== undefined) {
       info = map.item;
     }
     
