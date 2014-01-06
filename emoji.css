@@ -2736,6 +2736,14 @@ body {
     padding: 0;
 }
 
+.Tn li {
+    display: inline;
+    list-style-type: none;
+}
+
+.Tn li.last {
+}
+
 .emoji-pona{background:no-repeat url(emoji.png) 0 -6467px;height:28px;width:28px}
 .emoji-seli{background:no-repeat url(emoji.png) 0 -9599px;height:28px;width:28px}
 .emoji-tomo{background:no-repeat url(emoji.png) 0 -21402px;height:28px;width:28px}
