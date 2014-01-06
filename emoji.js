@@ -81,6 +81,11 @@
       'seli' : ['e1f525', '&#xd83d;&#xdd25;'],
       'kala' : ['e1f41f', '&#xd83d;&#xdc1f;'],
       'pona' : ['e263a', '&#x263a;'],
+      'toki' : ['e1f4ac', '&#xd83d;&#xdcac;'],
+      'ala' : ['e1f6ab', '&#xd83d;&#xdeab;'],
+      'anpa' : ['e1f447', '&#xd83d;&#xdc47;'],
+      'sin' : ['e2734', '&#x2734;'],
+      'moli' : ['e1f480', '&#xd83d;&#xdc80;']
     }
     
     if (map[item] !== undefined) {
