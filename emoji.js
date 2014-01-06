@@ -65,7 +65,7 @@
       output += '</span><div class="' + classname + ' vm" style="display:inline-block;"></div></span>';
     }
     else {
-      output = item;
+      output = item + '&nbsp;';
     }
     
     return output;
