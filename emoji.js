@@ -62,7 +62,7 @@
       output = '<span class="Pt">';
       output += '<span style="opacity:0.0; width: 0; display:inline-block;">';
       output += text;
-      output += '</span><div class="' + classname + 'vm" style="display:inline-block;"></div></span>';
+      output += '</span><div class="' + classname + ' vm" style="display:inline-block;"></div></span>';
     }
     else {
       output = item;
