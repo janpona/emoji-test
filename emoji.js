@@ -85,7 +85,7 @@
     }
     
     if (map[item] !== undefined) {
-      info = map.item;
+      info = map[item];
     }
     
     return info;
