@@ -38,8 +38,19 @@
     
     for (var i = 0; i < group_keys.length; ++i) {
       console.log(group_keys[i]);
+      var snippet = render_group(group_keys[i], groups.group_keys[i]);
+      $('#build').append(snippet);
     }
     console.log("Done.");
   });
 
+  function render_group(header, items) {
+    var output = '<div class="Tn"><h3>' + header + '</h3><ul>';
+    for (var i = 0; i < items.length; ++i) {
+      output += '<li>' + items[i] + '</li>';
+    }
+    output += '</ul></div>';
+    return output;
+  }
+  
 })(jQuery);
