@@ -87,7 +87,8 @@
       'sin' : ['e2734', '&#x2734;'],
       'moli' : ['e1f480', '&#xd83d;&#xdc80;'], 
       'sona' : ['e1f4ad', '&#xd83d;&#xdcad;'],
-      'olin' : ['e2764', '&#x2764;']
+      'olin' : ['e2764', '&#x2764;'],
+      'kalama' : ['e1f3b5', '&#xd83c;&#xdfb5;']
     }
     
     if (map[item] !== undefined) {
