@@ -121,7 +121,7 @@
       'akesi': ['e1f40d', '&#xd83d;&#xdc0d;'],
       'pakala': ['e1f4a3', '&#xd83d;&#xdca3;'],
       'pan': ['e1f35a', '&#xd83c;&#xdf5a;']
-    }]
+    }
     
     if (map[item] !== undefined) {
       info = map[item];
