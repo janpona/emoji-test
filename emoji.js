@@ -95,7 +95,19 @@
       'kili' : ['e1f353', '&#xd83c;&#xdf53;'],
       'mama' : ['e1f46a', '&#xd83d;&#xdc6a;'],
       'telo' : ['e1f4a7', '&#xd83d;&#xdca7;'],
-      'oko' : ['e1f440', '&#xd83d;&#xdc40;']
+      'oko' : ['e1f440', '&#xd83d;&#xdc40;'],
+      'wawa' : ['e1f4aa', '&#xd83d;&#xdcaa;'],
+      'suno' : ['e2600', '&#x2600;'],
+      'kute' : ['e1f442', '&#xd83d;&#xdc42;'],
+      'noka' : ['e1f463', '&#xd83d;&#xdc63;'],
+      'laso' : ['e2b1c', '&#x2b1c;'],
+      'loje' : ['e2b1b', '&#x2b1b;'],
+      'jelo' : ['e1f536', '&#xd83d;&#xdd36;'],
+      'pipi' : ['e1f41c', '&#xd83d;&#xdc1c;'],
+      'waso' : ['e1f426', '&#xd83d;&#xdc26;'],
+      'mani' : ['e1f4b8', '&#xd83d;&#xdcb8;'],
+      'soweli' : ['e1f415', '&#xd83d;&#xdc15;'],
+      'pimeja' : ['e1f311', '&#xd83c;&#xdf11;'],
     }
     
     if (map[item] !== undefined) {
