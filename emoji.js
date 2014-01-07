@@ -86,7 +86,8 @@
       'anpa' : ['e1f447', '&#xd83d;&#xdc47;'],
       'sin' : ['e2734', '&#x2734;'],
       'moli' : ['e1f480', '&#xd83d;&#xdc80;'], 
-      'sona' : ['e1f4ad', '&#xd83d;&#xdcad;']
+      'sona' : ['e1f4ad', '&#xd83d;&#xdcad;'],
+      'olin' : ['e2764', '&#x2764;']
     }
     
     if (map[item] !== undefined) {
