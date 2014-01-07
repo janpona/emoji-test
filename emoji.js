@@ -107,8 +107,21 @@
       'waso' : ['e1f426', '&#xd83d;&#xdc26;'],
       'mani' : ['e1f4b8', '&#xd83d;&#xdcb8;'],
       'soweli' : ['e1f415', '&#xd83d;&#xdc15;'],
-      'pimeja' : ['e1f311', '&#xd83c;&#xdf11;']
-    }
+      'pimeja' : ['e1f311', '&#xd83c;&#xdf11;'],
+      'suwi' : ['e1f36c', '&#xd83c;&#xdf6c;'],
+      'moku': ['e1f374', '&#xd83c;&#xdf74;'],
+      'sike' : ['e2b55', '&#x2b55;'],
+      'lape' : ['e1f634', '&#xd83d;&#xde34;'],
+      'kasi' : ['e1f333', '&#xd83c;&#xdf33;'],
+      'poki' : ['e1f376', '&#xd83c;&#xdf76;'],
+      'tenpo': ['e1f552', '&#xd83d;&#xdd52;'],
+      'palisa': ['e1f4cf', '&#xd83d;&#xdccf;'],
+      'kulupu': ['e2728', '&#x2728;'],
+      'kiwen': ['e1f48e', '&#xd83d;&#xdc8e;'],
+      'akesi': ['e1f40d', '&#xd83d;&#xdc0d;'],
+      'pakala': ['e1f4a3', '&#xd83d;&#xdca3;'],
+      'pan': ['e1f35a', '&#xd83c;&#xdf5a;']
+    }]
     
     if (map[item] !== undefined) {
       info = map[item];
