@@ -107,7 +107,7 @@
       'waso' : ['e1f426', '&#xd83d;&#xdc26;'],
       'mani' : ['e1f4b8', '&#xd83d;&#xdcb8;'],
       'soweli' : ['e1f415', '&#xd83d;&#xdc15;'],
-      'pimeja' : ['e1f311', '&#xd83c;&#xdf11;'],
+      'pimeja' : ['e1f311', '&#xd83c;&#xdf11;']
     }
     
     if (map[item] !== undefined) {
