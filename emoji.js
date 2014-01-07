@@ -88,7 +88,10 @@
       'moli' : ['e1f480', '&#xd83d;&#xdc80;'], 
       'sona' : ['e1f4ad', '&#xd83d;&#xdcad;'],
       'olin' : ['e2764', '&#x2764;'],
-      'kalama' : ['e1f3b5', '&#xd83c;&#xdfb5;']
+      'kalama' : ['e1f3b5', '&#xd83c;&#xdfb5;'],
+      'unpa' : ['e1f48f', '&#xd83d;&#xdc8f;'], 
+      'ilo' : ['e1f528', '&#xd83d;&#xdd28;'],
+      'ma' : ['e1f6a9', '&#xd83d;&#xdea9;'],
     }
     
     if (map[item] !== undefined) {
