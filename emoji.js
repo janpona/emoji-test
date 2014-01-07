@@ -120,7 +120,8 @@
       'kiwen': ['e1f48e', '&#xd83d;&#xdc8e;'],
       'akesi': ['e1f40d', '&#xd83d;&#xdc0d;'],
       'pakala': ['e1f4a3', '&#xd83d;&#xdca3;'],
-      'pan': ['e1f35a', '&#xd83c;&#xdf5a;']
+      'pan': ['e1f35a', '&#xd83c;&#xdf5a;'],
+      'mun' : ['e1f319', '&#xd83c;&#xdf19;']
     }
     
     if (map[item] !== undefined) {
