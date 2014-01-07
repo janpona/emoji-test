@@ -25,7 +25,7 @@
       'traits' : ['lili', 'nasa', 'suli', 'wawa'],
       'sky' : ['lete', 'mun', 'seli', 'suno', 'tenpo'],
       'presence' : ['jo', 'poka', 'weka', 'namako'],
-      'biology' : ['kasi', 'kili', 'mama', 'meli', 'mije'],
+      'biology' : ['kasi', 'kili', 'parent', 'meli', 'mije'],
       'matter' : ['kiwen', 'ko', 'kon', 'telo'],
       'parts' : ['lawa', 'luka', 'nena', 'noka', 'oko', 'uta'],
       'artifacts' : ['len', 'lipu', 'poki', 'sitelen'],
@@ -85,7 +85,8 @@
       'ala' : ['e1f6ab', '&#xd83d;&#xdeab;'],
       'anpa' : ['e1f447', '&#xd83d;&#xdc47;'],
       'sin' : ['e2734', '&#x2734;'],
-      'moli' : ['e1f480', '&#xd83d;&#xdc80;']
+      'moli' : ['e1f480', '&#xd83d;&#xdc80;'], 
+      'sona' : ['e1f4ad', '&#xd83d;&#xdcad;']
     }
     
     if (map[item] !== undefined) {
