@@ -122,7 +122,16 @@
       'pakala': ['e1f4a3', '&#xd83d;&#xdca3;'],
       'pan': ['e1f35a', '&#xd83c;&#xdf5a;'],
       'mun' : ['e1f319', '&#xd83c;&#xdf19;'],
-      'linja' : ['e3030', '&#x3030;']
+      'linja' : ['e3030', '&#x3030;'],
+      'ike' : ['e1f635', '&#xd83d;&#xde35;'],
+      'yaki' : ['e1f4a9', '&#xd83d;&#xdca9;'],
+      'utala' : ['e1f4a5', '&#xd83d;&#xdca5;'],
+      'nasa' : ['e1f4ab', '&#xd83d;&#xdcab;'],
+      'lete' : ['e2744', '&#x2744;'],
+      'pana' : ['e1f381', '&#xd83c;&#xdf81;'],
+      'sitelen' : ['e1f4dd', '&#xd83d;&#xdcdd;'],
+      'uta' : ['e1f444', '&#xd83d;&#xdc44;'],
+      'musi' : ['e1f64c', '&#xd83d;&#xde4c;']
     }
     
     if (map[item] !== undefined) {
