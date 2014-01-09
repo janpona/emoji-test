@@ -131,7 +131,16 @@
       'pana' : ['e1f381', '&#xd83c;&#xdf81;'],
       'sitelen' : ['e1f4dd', '&#xd83d;&#xdcdd;'],
       'uta' : ['e1f444', '&#xd83d;&#xdc44;'],
-      'musi' : ['e1f64c', '&#xd83d;&#xde4c;']
+      'musi' : ['e1f64c', '&#xd83d;&#xde4c;'],
+      'supa' : ['e1f4ba', '&#xd83d;&#xdcba;'],
+      'esun' : ['e1f3ea', '&#xd83c;&#xdfea;'],
+      'meli' : ['e1f6ba', '&#xd83d;&#xdeba;'],
+      'mije' : ['e1f6b9', '&#xd83d;&#xdeb9;'],
+      'nasin' : ['e1f69e', '&#xd83d;&#xde9e;'],
+      'pali' : ['e2611', '&#x2611;'],
+      'ken' : ['e2714', '&#x2714;'],
+      'alasa' : ['e1f50d', '&#xd83d;&#xdd0d;'],
+      'kon' : ['e2601', '&#x2601;']
     }
     
     if (map[item] !== undefined) {
