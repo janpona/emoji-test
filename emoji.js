@@ -140,7 +140,17 @@
       'pali' : ['e2611', '&#x2611;'],
       'ken' : ['e2714', '&#x2714;'],
       'alasa' : ['e1f50d', '&#xd83d;&#xdd0d;'],
-      'kon' : ['e2601', '&#x2601;']
+      'kon' : ['e2601', '&#x2601;'],
+      'nena' : ['e1f443', '&#xd83d;&#xdc43;'],
+      'wile' : ['e1f518', '&#xd83d;&#xdd18;'],
+      'nimi' : ['e1f516', '&#xd83d;&#xdd16;'],
+      'len' : ['e1f45a', '&#xd83d;&#xdc5a;'],
+      'monsi' : ['e1f448', '&#xd83d;&#xdc48;'],
+      'sewi' : ['e1f446', '&#xd83d;&#xdc46;'], 
+      'sinpin' : ['e1f449', '&#xd83d;&#xdc49;'],
+      'lipu' : ['e1f3ab', '&#xd83c;&#xdfab;'],
+      'selo' : ['e26fa', '&#x26fa;'],
+      
     }
     
     if (map[item] !== undefined) {
