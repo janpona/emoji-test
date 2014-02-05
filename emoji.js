@@ -156,7 +156,7 @@
       'awen' : ['e267b', '&#x267b;'],
       'lawa' : ['e1f475', '&#xd83d;&#xdc75;'],
       'pini' : ['e1f4a8', '&#xd83d;&#xdca8;'],
-      'kama' : ['e1f304', '&#xd83c;&#xdf04;'],
+      'kama' : ['e1f304', '&#xd83c;&#xdf04;']
       // alternate idea for life cycle: plants, sun/moon
     }
     
