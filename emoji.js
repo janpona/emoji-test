@@ -150,7 +150,14 @@
       'sinpin' : ['e1f449', '&#xd83d;&#xdc49;'],
       'lipu' : ['e1f3ab', '&#xd83c;&#xdfab;'],
       'selo' : ['e26fa', '&#x26fa;'],
-      
+      'lili' : ['e1f401', '&#xd83d;&#xdc01;'],
+      'suli': ['e1f418', '&#xd83d;&#xdc18;'],
+      'kule' : ['e1f3a8', '&#xd83c;&#xdfa8;'],
+      'awen' : ['e267b', '&#x267b;'],
+      'lawa' : ['e1f475', '&#xd83d;&#xdc75;'],
+      'pini' : ['e1f4a8', '&#xd83d;&#xdca8;'],
+      'kama' : ['e1f304', '&#xd83c;&#xdf04;'],
+      // alternate idea for life cycle: plants, sun/moon
     }
     
     if (map[item] !== undefined) {
