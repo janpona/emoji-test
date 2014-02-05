@@ -127,6 +127,7 @@
       'yaki' : ['e1f4a9', '&#xd83d;&#xdca9;'],
       'utala' : ['e1f4a5', '&#xd83d;&#xdca5;'],
       'nasa' : ['e1f4ab', '&#xd83d;&#xdcab;'],
+      // alternate nasa: puzzled monkey
       'lete' : ['e2744', '&#x2744;'],
       'pana' : ['e1f381', '&#xd83c;&#xdf81;'],
       'sitelen' : ['e1f4dd', '&#xd83d;&#xdcdd;'],
@@ -156,8 +157,19 @@
       'awen' : ['e267b', '&#x267b;'],
       'lawa' : ['e1f475', '&#xd83d;&#xdc75;'],
       'pini' : ['e1f4a8', '&#xd83d;&#xdca8;'],
-      'kama' : ['e1f304', '&#xd83c;&#xdf04;']
+      'kama' : ['e1f304', '&#xd83c;&#xdf04;'],
       // alternate idea for life cycle: plants, sun/moon
+      'luka' : ['e270b', '&#x270b;'],
+      'kipisi' : ['e2702', '&#x2702;'],
+      'sama' : ['e1f363', '&#xd83c;&#xdf63;'],
+      'ali' : ['e1f30d', '&#xd83c;&#xdf0d;'],
+      'en' : ['e2795', '&#x2795;'],
+      'ante'  : ['e1f317', '&#xd83c;&#xdf17;'],
+      // alternate ante: line graph?
+      'nanpa' : ['e1f522', '&#xd83d;&#xdd22;']
+      //'weka' : ['e1f4e4', '&#xd83d;&#xdce4;'], // inbox
+      //'poka' : ['', ''],
+      
     }
     
     if (map[item] !== undefined) {
